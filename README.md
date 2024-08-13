@@ -18,19 +18,14 @@ Data was consolidated into an Excel sheet and then imported into a Jupyter Noteb
 
 ### Key Visualizations and Insights
 1. **Team Performance Overview**: Visualized the number of games played, won, lost, and the win percentage against each opponent.
-   - *Observation*: The team had a perfect record against several teams, including the Pelicans, Timberwolves, and Warriors.
   
 2. **Points Scored and Conceded**: Bar charts displaying the total points scored and conceded in each game, with average lines for wins and losses.
-   - *Observation*: Points conceded in wins were generally lower than in losses, indicating defensive strengths in winning games.
 
 3. **Starting Lineups**: Analysis of different starting lineups and their win percentages.
-   - *Observation*: The most frequent lineup had a win percentage of 55.56% in 27 games.
 
 4. **League Performance Comparison**: A colormap showing how OKC Thunder performed in the league compared to other teams.
-   - *Observation*: The team ranked well in free throws and 3-point defense but struggled with offensive rebounds.
 
 5. **Player Performance**: Spider plots comparing individual player performances, both offensive and defensive, to their career averages.
-   - *Observation*: Players like Shai Gilgeous-Alexander and Danilo Gallinari exceeded their career averages in several metrics.
 
 ## Part 2: Playoff Visualization (Tableau)
 
